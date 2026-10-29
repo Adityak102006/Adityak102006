@@ -20,7 +20,7 @@
 
 I'm **Aditya** (online as **Kiyouka**), a Computer Science student at **Quantum University, Roorkee**. I live in two worlds that feed each other: **cybersecurity and systems programming** on one side, **visual storytelling** on the other.
 
-- 🛡️ Working towards a **SOC / security analyst** career: learning by doing on TryHackMe, Hack The Box and CTFs
+- 🛡️ Working towards a **VAPT Analyst** career: learning by doing on TryHackMe, Hack The Box and CTFs
 - 🛰️ **1st place, Tech Thrive 2.0** (college level) for a multi-modal, sun-angle and scale invariant image correspondence pipeline on **Chandrayaan-2** imagery
 - 🦈 Building **goshark**, a Wireshark-style packet analyzer with a Python GUI and Go CLI tooling
 - 🎬 Running **TRINIVERSE**, my creative studio for motion graphics, AMVs and cinematic design
