@@ -1,117 +1,180 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · adityak102006</sub></p>
-<h1>Aditya Kumar</h1>
-<h2>Cybersecurity Student</h2>
-<p>I’m Aditya Kumar, a Computer Science student at Quantum University, Roorkee, working towards a career as a VAPT Analyst. I’m learning offensive security hands-on through TryHackMe, Hack The Box and CTFs, and I hold the Drop Certified Security Course (DCSC) certificate in web application penetration testing.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:7c3aed&height=260&section=header&text=ADITYA%20KUMAR&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=%E3%80%8E%20K%20I%20Y%20O%20U%20K%20A%20%E3%80%8F&descAlignY=58&descSize=20&animation=twinkling" alt="header" width="100%" />
 
-My workflow centers on reconnaissance and traffic analysis with Nmap, Netcat, Bettercap, Hydra and Wireshark. To understand the network layer properly, I’m building goshark, a Wireshark-style packet analyzer in Python and Go.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<a href="https://github.com/Adityak102006">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=root%40kiyouka%3A%7E%23+whoami;Aspiring+VAPT+Analyst;Pentesting+%7C+Packet+Analysis+%7C+Custom+Tooling;Building+goshark+in+Python+%26+Go;Chandrayaan-2+%C2%B7+Tech+Thrive+2.0+Winner;Founder+of+TRINIVERSE+%C2%B7+Motion+%26+Cinematic+Design;Writing+a+myth-fantasy+saga+in+my+spare+time" alt="Typing SVG" />
+</a>
 
-<p><a href="https://github.com/adityak102006">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/106900606?u=d16b5c9fc357756d14bc8d9a2cd801c6907d9963&amp;v=4" width="180" alt="Aditya Kumar GitHub avatar" />
-</td>
-</tr>
-</table>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Adityak102006&label=VISITORS&color=7c3aed&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/Adityak102006?style=for-the-badge&color=302b63&label=FOLLOWERS&logo=github" alt="followers" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING_IN_PUBLIC-a78bfa?style=for-the-badge" alt="status" />
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f0c29&height=2&section=header" width="100%" alt="divider" />
 
-<table width="100%">
+## ⚡ `./about_me.sh`
+
+```bash
+#!/bin/bash
+# ─────────────────────────────────────────────
+NAME="Aditya Kumar"          # alias: Kiyouka
+ROLE="CS Student @ Quantum University, Roorkee"
+GOAL="VAPT Analyst"
+CERT="DCSC · Web Application Penetration Testing"
+PLATFORMS=("TryHackMe" "Hack The Box" "CTFs")
+BUILDING=("goshark" "Neptune-lens" "Fruit Quality Classifier")
+SIDE_QUESTS=("TRINIVERSE studio" "Brahmashirastra novel series" "JLPT N5 Japanese")
+# ─────────────────────────────────────────────
+echo "Break it. Understand it. Then help secure it."
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:7c3aed&height=2&section=header" width="100%" alt="divider" />
+
+</div>
+
+## 🛠️ Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,go,rust,c,cpp,js,html,css,bash&theme=dark" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=kali,linux,git,neovim,tensorflow,opencv&theme=dark" alt="tools" />
+<br/>
+<img src="https://skillicons.dev/icons?i=ae,pr&theme=dark" alt="creative" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Netcat-222222?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Bettercap-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/Hydra-b91c1c?style=flat-square" />
+<img src="https://img.shields.io/badge/CyberChef-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Adityak102006/Neptune-lens">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityak102006&repo=Neptune-lens&theme=tokyonight&bg_color=0f0c29&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed" />
+</a>
+<a href="https://github.com/Adityak102006/S.I.L.L.Y-Socially-Intelligent-Language-Learning-and-Yielding-">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityak102006&repo=S.I.L.L.Y-Socially-Intelligent-Language-Learning-and-Yielding-&theme=tokyonight&bg_color=0f0c29&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed" />
+</a>
+<a href="https://github.com/Adityak102006/School-DB-updating-tool">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityak102006&repo=School-DB-updating-tool&theme=tokyonight&bg_color=0f0c29&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed" />
+</a>
+<a href="https://github.com/Adityak102006/waybarconfig">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityak102006&repo=waybarconfig&theme=tokyonight&bg_color=0f0c29&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed" />
+</a>
+
+</div>
+
+<details>
+<summary><b>🔓 More in the lab (click to expand)</b></summary>
+<br/>
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| 🦈 **goshark** *(in progress)* | Wireshark-style packet analyzer with live capture, packet breakdown, display filters and TShark/editcap-style CLI tools | `Python` `Go` |
+| 🌙 **Chandrayaan-2 Image Correspondence** | Matches lunar imagery across OHRC, TMC and IIRS sensors despite scale, resolution and sun-angle differences. **1st place, Tech Thrive 2.0** | `Python` `OpenCV` `TensorFlow` `Streamlit` |
+| 🍎 **Fruit Quality Classifier** *(in progress)* | CNN-based fruit grading, trained on Kaggle, heading towards a polished app | `Python` `TensorFlow/Keras` |
+| 🎨 **config-files-and-wallpapers** | My kitty, fastfetch and zsh setup plus wallpapers | `GLSL` `Shell` |
+
+</details>
+
+## 🛡️ Security Mission Log
+
+<details open>
+<summary><b>📡 Current loadout</b></summary>
+<br/>
+
+```text
+┌──────────────────────────────────────────────┐
+│  OPERATOR   : Kiyouka                        │
+│  TARGET ROLE: VAPT Analyst                   │
+│  CERTIFIED  : DCSC (Web App Pentesting)      │
+│  TRAINING   : TryHackMe · Hack The Box       │
+│  FIELD OPS  : Practice CTFs (solo)           │
+│  BUILDING   : goshark packet analyzer        │
+└──────────────────────────────────────────────┘
+```
+
+</details>
+
+**Roadmap**
+
+- [x] Drop Certified Security Course, web application pentesting
+- [x] First practice CTFs (Nmap, Netcat, FTP, CyberChef)
+- [x] Tech Thrive 2.0, 1st place
+- [ ] Finish the TryHackMe Pre Security path and keep climbing
+- [ ] Hack The Box machines
+- [ ] Ship goshark v1
+- [ ] Write-ups for my CTFs and rooms
+
+## 🎬 Beyond the Terminal
+
+<table>
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Cybersecurity Student · Python · Bash · HTML · CSS · Javascript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>14 repositories · 3 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>64 contributions · 17 active days</p></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+### TRINIVERSE
+My creative studio for **motion graphics, AMVs and cinematic design**. I also script my own trailer compositing pipeline in Python.
 
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>14</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>64</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>9</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=adityak102006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106900606%3Fu%3Dd16b5c9fc357756d14bc8d9a2cd801c6907d9963%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=adityak102006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106900606%3Fu%3Dd16b5c9fc357756d14bc8d9a2cd801c6907d9963%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Aditya Kumar GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=adityak102006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106900606%3Fu%3Dd16b5c9fc357756d14bc8d9a2cd801c6907d9963%26v%3D4&repos=adityak102006%2FNeptune-lens%2Cadityak102006%2Fwaybarconfig%2Cadityak102006%2FS.I.L.L.Y-Socially-Intelligent-Language-Learning-and-Yielding-%2Cadityak102006%2FAdityak102006&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=adityak102006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106900606%3Fu%3Dd16b5c9fc357756d14bc8d9a2cd801c6907d9963%26v%3D4&repos=adityak102006%2FNeptune-lens%2Cadityak102006%2Fwaybarconfig%2Cadityak102006%2FS.I.L.L.Y-Socially-Intelligent-Language-Learning-and-Yielding-%2Cadityak102006%2FAdityak102006&v=recruiter-projects-1&mode=dark" width="100%" alt="Aditya Kumar selected projects" />
-</picture>
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Adityak102006/Neptune-lens">Neptune-lens</a></h3>
-<p>search similar images like google lens in your local folder, build in rust</p>
-<p><sub>Rust · ⭐ 1 · 🍴 1</sub></p>
-<p><a href="https://github.com/Adityak102006/Neptune-lens">Read the repository →</a></p>
+<td width="50%" valign="top">
+
+### Brahmashirastra
+*Fight for the Astras* is an original fantasy series set in an Indian mythological universe, with its own worldbuilding, prose and cinematic trailer.
+
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Adityak102006/waybarconfig">waybarconfig</a></h3><p>this my waybar config</p><p><sub>CSS · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Adityak102006/S.I.L.L.Y-Socially-Intelligent-Language-Learning-and-Yielding-">S.I.L.L.Y-Socially-Intelligent-Language-Learning-and-Yielding-</a></h3><p>This is an AI Assistant, currently in developing phase it only works on IDE or editing software as no GUI (Graphical user interface) is included after</p><p><sub>Yacc · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Adityak102006/Adityak102006">Adityak102006</a></h3><p>My GitHub profile</p><p><sub>Open source · ⭐ 0</sub></p></td>
-</tr>
-</table>
+## 📊 Stats
 
-<h2>Technical toolkit</h2>
+<div align="center">
 
-<p align="center">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Adityak102006&show_icons=true&theme=tokyonight&bg_color=0f0c29&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false" alt="stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak102006&layout=compact&theme=tokyonight&bg_color=0f0c29&border_color=7c3aed&title_color=a78bfa" alt="languages" />
+
+<img src="https://streak-stats.demolab.com?user=Adityak102006&theme=tokyonight&background=0f0c29&border=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityak102006&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="activity graph" width="100%" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=adityak102006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106900606%3Fu%3Dd16b5c9fc357756d14bc8d9a2cd801c6907d9963%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=adityak102006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106900606%3Fu%3Dd16b5c9fc357756d14bc8d9a2cd801c6907d9963%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Aditya Kumar technology stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityak102006/Adityak102006/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityak102006/Adityak102006/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Adityak102006/Adityak102006/output/github-snake-dark.svg" />
 </picture>
-</p>
+</div>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>60% of public code</sub></td>
-<td width="20%" align="center"><strong>Go</strong><br /><sub>28% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>6% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
-</tr>
-</table>
+## 📫 Let's Connect
 
-<h2>Consistency signal</h2>
+<div align="center">
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=adityak102006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106900606%3Fu%3Dd16b5c9fc357756d14bc8d9a2cd801c6907d9963%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=adityak102006&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106900606%3Fu%3Dd16b5c9fc357756d14bc8d9a2cd801c6907d9963%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Aditya Kumar contribution activity" />
-</picture>
-</p>
+<a href="https://www.instagram.com/adityaak2006/"><img src="https://img.shields.io/badge/Instagram-adityaak2006-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/Adityak102006"><img src="https://img.shields.io/badge/GitHub-Adityak102006-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<hr />
+<br/><br/>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/adityak102006">GitHub</a></td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Open+to+CTF+teams+and+security+collaborations;Hire+me+as+your+future+VAPT+Analyst;Thanks+for+stopping+by+%E2%9C%A6" alt="footer typing" />
 
-<p align="center"><sub>Aditya Kumar · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
+
+</div>
