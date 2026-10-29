@@ -5,8 +5,10 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · adityak102006</sub></p>
 <h1>Aditya Kumar</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
+<h2>Cybersecurity Student</h2>
+<p>I’m Aditya (Kiyouka), a Computer Science student at Quantum University, Roorkee, working towards a career as a VAPT Analyst. I’m learning offensive security hands-on through TryHackMe, Hack The Box and CTFs, and I hold the Drop Certified Security Course (DCSC) certificate in web application penetration testing.
+
+My workflow centers on reconnaissance and traffic analysis with Nmap, Netcat, Bettercap, Hydra and Wireshark. To understand the network layer properly, I’m building goshark, a Wireshark-style packet analyzer in Python and Go.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/adityak102006">GitHub</a></p>
@@ -22,7 +24,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · Rust · CSS</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Cybersecurity Student · Python · Bash · HTML · CSS · Javascript</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>14 repositories · 3 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>64 contributions · 17 active days</p></td>
 </tr>
@@ -86,11 +88,11 @@
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>60% of public code</sub></td>
-<td width="20%" align="center"><strong>Rust</strong><br /><sub>28% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>60% of public code</sub></td>
+<td width="20%" align="center"><strong>Go</strong><br /><sub>28% of public code</sub></td>
 <td width="20%" align="center"><strong>CSS</strong><br /><sub>6% of public code</sub></td>
 <td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>Yacc</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
 </tr>
 </table>
 
