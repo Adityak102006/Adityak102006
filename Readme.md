@@ -91,7 +91,7 @@ Also: Netcat · Bettercap · Hydra · CyberChef
 > status      : learning in public
 > platforms   : TryHackMe · Hack The Box
 > certificate : Drop Certified Security Course (DCSC), web app pentesting
-> goal        : SOC / security analyst
+> goal        : VAPT Analyst
 ```
 
 - Solving **TryHackMe** rooms (`n0xaadi`) and working through the Pre Security path
