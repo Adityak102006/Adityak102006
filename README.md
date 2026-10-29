@@ -6,7 +6,7 @@
 <p><sub>RECRUITER SIGNAL BRIEF · adityak102006</sub></p>
 <h1>Aditya Kumar</h1>
 <h2>Cybersecurity Student</h2>
-<p>I’m Aditya (Kiyouka), a Computer Science student at Quantum University, Roorkee, working towards a career as a VAPT Analyst. I’m learning offensive security hands-on through TryHackMe, Hack The Box and CTFs, and I hold the Drop Certified Security Course (DCSC) certificate in web application penetration testing.
+<p>I’m Aditya Kumar, a Computer Science student at Quantum University, Roorkee, working towards a career as a VAPT Analyst. I’m learning offensive security hands-on through TryHackMe, Hack The Box and CTFs, and I hold the Drop Certified Security Course (DCSC) certificate in web application penetration testing.
 
 My workflow centers on reconnaissance and traffic analysis with Nmap, Netcat, Bettercap, Hydra and Wireshark. To understand the network layer properly, I’m building goshark, a Wireshark-style packet analyzer in Python and Go.</p>
 <p><strong>● Building and sharing work in public</strong></p>
